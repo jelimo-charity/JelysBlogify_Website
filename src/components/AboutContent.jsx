@@ -18,7 +18,7 @@ function AboutContent() {
                       quibusdam laudantium, porro deserunt maxime ratione molestiae non eaque!</p>
             </div>
             <div className="imageprof">
-                <img src={myProfile} alt="profilepic" />
+                <img id='imgabout' src={myProfile} alt="profilepic" />
             </div>
         </div>
 

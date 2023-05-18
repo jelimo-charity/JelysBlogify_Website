@@ -22,8 +22,9 @@ h3{
     margin-bottom: 5px;
     color: goldenrod;
 }
-img{
-    height: 70%;
+#imgabout{
+    height: 80%;
+    width: 90%;
 
     margin-top: 40px;
 }
