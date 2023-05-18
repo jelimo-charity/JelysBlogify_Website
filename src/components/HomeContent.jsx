@@ -9,7 +9,7 @@ function HomeContent() {
   return (
        <div className='container'>
       <div className="imageSide">
-        <img src={blog2} alt="photo" />
+        <img id='blog2' src={blog2} alt="photo" />
       </div>
 
       <div className="descriptionHome">

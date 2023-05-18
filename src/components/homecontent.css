@@ -14,6 +14,10 @@
     margin-left: 100px;
     margin-top: 30px;
 }
+#blog2{
+    width: 100%;
+    height: 80%;
+}
 .descriptionHome{
     width: 30%;
     /* color: gold; */
