@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    /* justify-content: space-between; */
+
+}
+.section1{
+    width: 60%;
+}
+.section2{
+    width: 30%;
+    border-left: 1px solid gold;
+    border-bottom: 1px solid gold;
+    padding-left: 30px;
+    /* margin-right: 100px; */
+}
+.sideData p{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+.sideData h4{
+    color: goldenrod;
+
+}
+img{
+    height: 70px;
+    width: 80%;
+    border-radius: 20px;
+}

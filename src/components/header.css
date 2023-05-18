@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Ubuntu:wght@500&display=swap');
+.header{
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    border-bottom: 1px solid goldenrod;
+    font-family: Poppins;
+    
+
+}
+.navlink{
+    text-align: center;
+    text-decoration: none;
+    color: #002333;
+    padding: 2rem;
+    font-size: 24px;
+    
+}

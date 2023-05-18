@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Ubuntu:wght@500&display=swap');
+
+.container{
+    font-family: poppins;
+}
+.conts{
+    display: flex;
+    gap: 4rem;
+}
+.textprof{
+    width: 50%;
+    border: 1px solid goldenrod;
+}
+#loremData{
+    text-align: justify;
+    padding: 20px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: 5px;
+    color: goldenrod;
+}
+img{
+    height: 300px;
+
+    margin-top: 40px;
+}
+img:hover{
+    border: 2px solid gold;
+    zoom: 100%;
+    opacity: 0.6;
+    border-radius: 20px;
+}
+/* .imageprof{
+    height: 200px;
+} */

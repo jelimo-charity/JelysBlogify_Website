@@ -1,0 +1,40 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Ubuntu:wght@500&display=swap');
+
+.container{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    margin: 10px;
+    gap: 50px;
+    font-family: poppins;
+    /* height: 100vh; */
+}
+.imageSide{
+    width: 60%;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.descriptionHome{
+    width: 30%;
+    /* color: gold; */
+    margin-right: 300px;
+    margin-top: 30px;
+
+}
+button{
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: grey;
+    color: goldenrod;
+    margin-left: 20px;
+}
+button:hover{
+    background-color: goldenrod;
+    color: #fff;
+
+}
+/* .btnHome{
+    float: right;
+    margin-right: 300px;
+} */
